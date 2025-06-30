@@ -2,7 +2,8 @@
   "compilerOptions": {
     "target": "ES6",
     "module": "commonjs",
-    "moduleResolution": "node", 
+    "moduleResolution": "node",  // Asegúrate de que esté configurado como 'node'
+    "baseUrl": ".",  // Añade esto
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
