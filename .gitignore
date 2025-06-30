@@ -1,0 +1,17 @@
+# Dependencias de pnpm
+node_modules/
+
+# Archivos generados por TypeScript
+dist/
+*.tsbuildinfo
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de configuración de logs
+*.log
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
